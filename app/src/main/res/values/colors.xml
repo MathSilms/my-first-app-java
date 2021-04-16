@@ -2,5 +2,11 @@
 <resources>
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+    <color name="Snow">#FFFAFA</color>
+    <color name="cornflowerBlue">#6495ED</color>
+    <color name="deepSkyBlue">#00BFFF</color>
+    <color name="GhostWhite">#F8F8FF</color>
+    <color name="Cyan">#00FFFF</color>
+    <color name="colorAccent">#E0FFFF</color>
+
 </resources>
